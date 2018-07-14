@@ -1,4 +1,4 @@
-#Price and Volatility Forecast with SLR
+# Price and Volatility Forecast with SLR
 
 Requires R to run. Libraries are presented in the code.
 
